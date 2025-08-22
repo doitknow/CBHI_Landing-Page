@@ -1,0 +1,1 @@
+<template><section class="features section-inner"><h3>Features</h3><p>Placeholder features content.</p></section></template><script setup></script><style scoped>.features{padding:16px 0}</style>
